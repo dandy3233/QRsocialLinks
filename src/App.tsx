@@ -42,14 +42,14 @@ const socialLinks = [
   {
     name: 'WhatsApp',
     icon: MessageCircle,
-    url: 'https://wa.me/1234567890',
+    url: 'https://wa.me/+251924797472',
     color: 'from-green-500 to-green-600',
     hoverColor: 'hover:from-green-600 hover:to-green-700',
   },
   {
     name: 'Location',
     icon: MapPin,
-    url: 'https://maps.apple.com/place?map=hybrid&address=Ring+Road%2C+Bole%2C+Ethiopia&coordinate=8.980271%2C38.774301&name=My+Location',
+    url: 'https://maps.app.goo.gl/BgrbHjCN28pvzba19?g_st=atm',
     color: 'from-indigo-500 to-indigo-700',
     hoverColor: 'hover:from-indigo-600 hover:to-indigo-800',
   },
